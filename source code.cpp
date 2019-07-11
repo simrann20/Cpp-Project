@@ -1,6 +1,5 @@
 ///CIRCULAR QUEUE USING TEMPLATES 
 /// IMPLEMENTING OOPS
-
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
@@ -80,8 +79,7 @@ break;
 }
 }
 int main()
-{
-	
+{	
 cout<<"\n\t\tQUEUE OPERATION USING TEMPLATE\n\n";
 cout<<"\n\t INT\n";
 Queue<int> que1;
