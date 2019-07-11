@@ -1,7 +1,5 @@
-
-
-/////CIRCULAR QUEUE USING TEMPLATES 
-//// IMPLEMENTING OOPS
+///CIRCULAR QUEUE USING TEMPLATES 
+/// IMPLEMENTING OOPS
 
 #include<iostream>
 #include<stdlib.h>
